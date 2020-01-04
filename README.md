@@ -1,6 +1,7 @@
 # StaffPlugin
 ##### Only for Staff - Do not spread this around, please.
-##### Permission from finn is needed - 
+##### Permission from finn is needed
+###### Whitelisted - Ask for whitelist
 
 [Requires Tampermonkey](https://www.tampermonkey.net/)
 
