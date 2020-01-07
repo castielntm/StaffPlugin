@@ -13,6 +13,14 @@
 
 ***
 
+# Changelogs
+
+#### v 0.11
+
++ Added 1 Thread leechers if over 15 posts. (Will be tagged in Orange)
+
++ Fixed bug.
+
 ## Planned updates
 
 + List with the 10 most recent leechers detected.
