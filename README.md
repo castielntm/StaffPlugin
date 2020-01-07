@@ -15,6 +15,12 @@
 
 # Changelogs
 
+#### Added Ratio Plugin - Requsted by Ueli
+
++ Added ratio Plugin
+
++ Posts / Threads >= 15 - Tagged as leecher
+
 #### v 0.11
 
 + Added 1 Thread leechers if over 15 posts. (Will be tagged in Orange)
