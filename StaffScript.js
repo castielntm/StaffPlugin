@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Nulled Anti-Leech SB
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.11
 // @description  Nulled Anti-Leech SB
 // @author       ChristmasDev
 // @match        https://www.nulled.to/
