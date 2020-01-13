@@ -15,6 +15,14 @@
 
 # Changelogs
 
+#### Added Thread Ratio Plugin - Requsted by Ueli
+
++ Added Thread Ratio Plugin
+
++ Posts / Threads >= 15 - Tagged as leecher
+
++ Button will only be visible if there are any users on current page.
+
 #### Added Ratio Plugin - Requsted by Ueli
 
 + Added ratio Plugin
