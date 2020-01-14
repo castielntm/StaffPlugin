@@ -15,6 +15,12 @@
 
 # Changelogs
 
+### Mini-Update Thread Ratio Plugin
+
++ Fixed issue when it will still show button even if there's no leecher on current page.
+
++ Leecher window height increased to screen height
+
 #### Added Thread Ratio Plugin - Requsted by Ueli
 
 + Added Thread Ratio Plugin
